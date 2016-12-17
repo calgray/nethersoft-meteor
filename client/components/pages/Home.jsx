@@ -21,6 +21,7 @@ class Home extends React.Component {
         <h2>Checkout the old site</h2>
         <a href="http://nethersoft.herokuapp.com">nethersoft.herokuapp.com</a>
         <br/>
+        
         <Link to="/about">About</Link>
       </div>
     );
