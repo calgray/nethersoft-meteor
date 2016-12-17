@@ -1,0 +1,8 @@
+{
+  "name": "nethersoft-meteor",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
